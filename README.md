@@ -12,6 +12,7 @@ En la siguiente tabla encontrarás todos los proyectos realizados con dichas tec
 | NFT Markeplace (No responsive)      | Maquetación de un header para un sitio web de compra de NFTs  | [Repositorio de NFT Marketplace](https://github.com/kaeedev/Proyecto-4-NFT-MarketPlace)                | [Live Demo](https://kaeedev.github.io/Proyecto-4-NFT-MarketPlace/) 
 | Grocery Store (No responsive)       | Maquetación de un header para una página de un supermercado   | [Repositorio de Grocery Store](https://github.com/kaeedev/Proyecto-5-Grocery-Store)                    | [Live Demo](https://kaeedev.github.io/Proyecto-5-Grocery-Store/) 
 | Elearning Landing Page (Responsive) | Página web de una academia                                    | [Repositorio de Elearning Landing Space](https://github.com/kaeedev/Proyecto-6-Elearning-Landing-Page) | [Live Demo](https://kaeedev.github.io/Proyecto-6-Elearning-Landing-Page/) 
+| Spa & Beauty (No responsive)        | Maquetación de un header para un centro de belleza y spa      | [Repositorio de Spa & Beauty](https://github.com/kaeedev/Proyecto-7-Spa-Beauty)                        | [Live Demo](https://kaeedev.github.io/Proyecto-7-Spa-Beauty/)
 
 
 
